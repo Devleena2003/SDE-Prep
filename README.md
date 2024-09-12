@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Devleena2003/SDE-Prep/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Devleena2003/SDE-Prep/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/Devleena2003/SDE-Prep/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/Devleena2003/SDE-Prep/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Devleena2003/SDE-Prep/tree/master/0540-single-element-in-a-sorted-array) |
 ## Prefix Sum
 |  |
@@ -27,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0091-decode-ways](https://github.com/Devleena2003/SDE-Prep/tree/master/0091-decode-ways) |
 | [0132-palindrome-partitioning-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0132-palindrome-partitioning-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Devleena2003/SDE-Prep/tree/master/0300-longest-increasing-subsequence) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Devleena2003/SDE-Prep/tree/master/0004-median-of-two-sorted-arrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Devleena2003/SDE-Prep/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Devleena2003/SDE-Prep/tree/master/0540-single-element-in-a-sorted-array) |
 ## Stack
 |  |
