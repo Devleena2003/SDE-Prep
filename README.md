@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Devleena2003/SDE-Prep/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Devleena2003/SDE-Prep/tree/master/0322-coin-change) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Devleena2003/SDE-Prep/tree/master/0540-single-element-in-a-sorted-array) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Devleena2003/SDE-Prep/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Devleena2003/SDE-Prep/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Devleena2003/SDE-Prep/tree/master/0234-palindrome-linked-list) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Devleena2003/SDE-Prep/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Devleena2003/SDE-Prep/tree/master/0222-count-complete-tree-nodes) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/0662-maximum-width-of-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Devleena2003/SDE-Prep/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Devleena2003/SDE-Prep/tree/master/0222-count-complete-tree-nodes) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/0662-maximum-width-of-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Devleena2003/SDE-Prep/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -135,4 +139,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Devleena2003/SDE-Prep/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Devleena2003/SDE-Prep/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
