@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Devleena2003/SDE-Prep/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0226-invert-binary-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Devleena2003/SDE-Prep/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Devleena2003/SDE-Prep/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/0662-maximum-width-of-binary-tree) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Devleena2003/SDE-Prep/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Devleena2003/SDE-Prep/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Devleena2003/SDE-Prep/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/0662-maximum-width-of-binary-tree) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Devleena2003/SDE-Prep/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/0662-maximum-width-of-binary-tree) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Devleena2003/SDE-Prep/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Devleena2003/SDE-Prep/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Devleena2003/SDE-Prep/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/0662-maximum-width-of-binary-tree) |
