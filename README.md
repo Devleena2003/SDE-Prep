@@ -23,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Devleena2003/SDE-Prep/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/Devleena2003/SDE-Prep/tree/master/0091-decode-ways) |
 | [0132-palindrome-partitioning-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0132-palindrome-partitioning-ii) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Devleena2003/SDE-Prep/tree/master/1777-determine-if-two-strings-are-close) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Devleena2003/SDE-Prep/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/Devleena2003/SDE-Prep/tree/master/0091-decode-ways) |
 | [0132-palindrome-partitioning-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0132-palindrome-partitioning-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Devleena2003/SDE-Prep/tree/master/0300-longest-increasing-subsequence) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Devleena2003/SDE-Prep/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Devleena2003/SDE-Prep/tree/master/0039-combination-sum) |
 | [0216-combination-sum-iii](https://github.com/Devleena2003/SDE-Prep/tree/master/0216-combination-sum-iii) |
 ## Matrix
