@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Devleena2003/SDE-Prep/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Devleena2003/SDE-Prep/tree/master/0322-coin-change) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Devleena2003/SDE-Prep/tree/master/0540-single-element-in-a-sorted-array) |
+| [0735-asteroid-collision](https://github.com/Devleena2003/SDE-Prep/tree/master/0735-asteroid-collision) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Devleena2003/SDE-Prep/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Prefix Sum
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Devleena2003/SDE-Prep/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Devleena2003/SDE-Prep/tree/master/0234-palindrome-linked-list) |
+| [0735-asteroid-collision](https://github.com/Devleena2003/SDE-Prep/tree/master/0735-asteroid-collision) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Devleena2003/SDE-Prep/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/Devleena2003/SDE-Prep/tree/master/0289-game-of-life) |
+| [0735-asteroid-collision](https://github.com/Devleena2003/SDE-Prep/tree/master/0735-asteroid-collision) |
 ## Divide and Conquer
 |  |
 | ------- |
