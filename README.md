@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Devleena2003/SDE-Prep/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/Devleena2003/SDE-Prep/tree/master/0091-decode-ways) |
 | [0132-palindrome-partitioning-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0132-palindrome-partitioning-ii) |
+| [0812-rotate-string](https://github.com/Devleena2003/SDE-Prep/tree/master/0812-rotate-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Devleena2003/SDE-Prep/tree/master/1777-determine-if-two-strings-are-close) |
 ## Dynamic Programming
 |  |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/0572-subtree-of-another-tree) |
+| [0812-rotate-string](https://github.com/Devleena2003/SDE-Prep/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
