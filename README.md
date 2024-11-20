@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Devleena2003/SDE-Prep/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/Devleena2003/SDE-Prep/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Devleena2003/SDE-Prep/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0045-jump-game-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Devleena2003/SDE-Prep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Devleena2003/SDE-Prep/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Devleena2003/SDE-Prep/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0045-jump-game-ii) |
 | [0091-decode-ways](https://github.com/Devleena2003/SDE-Prep/tree/master/0091-decode-ways) |
 | [0132-palindrome-partitioning-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0132-palindrome-partitioning-ii) |
 | [0213-house-robber-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0213-house-robber-ii) |
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/0572-subtree-of-another-tree) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
