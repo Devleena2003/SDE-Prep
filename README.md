@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Devleena2003/SDE-Prep/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/Devleena2003/SDE-Prep/tree/master/0038-count-and-say) |
 | [0091-decode-ways](https://github.com/Devleena2003/SDE-Prep/tree/master/0091-decode-ways) |
 | [0132-palindrome-partitioning-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0132-palindrome-partitioning-ii) |
 | [0205-isomorphic-strings](https://github.com/Devleena2003/SDE-Prep/tree/master/0205-isomorphic-strings) |
