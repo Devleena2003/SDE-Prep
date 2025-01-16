@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Devleena2003/SDE-Prep/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Devleena2003/SDE-Prep/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2227-sum-of-subarray-ranges](https://github.com/Devleena2003/SDE-Prep/tree/master/2227-sum-of-subarray-ranges) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Devleena2003/SDE-Prep/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Devleena2003/SDE-Prep/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Devleena2003/SDE-Prep/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Devleena2003/SDE-Prep/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Devleena2003/SDE-Prep/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Devleena2003/SDE-Prep/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Devleena2003/SDE-Prep/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Backtracking
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0289-game-of-life](https://github.com/Devleena2003/SDE-Prep/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/Devleena2003/SDE-Prep/tree/master/0735-asteroid-collision) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Devleena2003/SDE-Prep/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
