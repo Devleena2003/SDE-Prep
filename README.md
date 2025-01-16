@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Devleena2003/SDE-Prep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Devleena2003/SDE-Prep/tree/master/0216-combination-sum-iii) |
+| [0229-majority-element-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Devleena2003/SDE-Prep/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/Devleena2003/SDE-Prep/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Devleena2003/SDE-Prep/tree/master/0300-longest-increasing-subsequence) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Devleena2003/SDE-Prep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0205-isomorphic-strings](https://github.com/Devleena2003/SDE-Prep/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Devleena2003/SDE-Prep/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Devleena2003/SDE-Prep/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Devleena2003/SDE-Prep/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -123,11 +125,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Devleena2003/SDE-Prep/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0229-majority-element-ii) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Devleena2003/SDE-Prep/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Devleena2003/SDE-Prep/tree/master/1777-determine-if-two-strings-are-close) |
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0229-majority-element-ii) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Devleena2003/SDE-Prep/tree/master/1777-determine-if-two-strings-are-close) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Devleena2003/SDE-Prep/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Linked List
