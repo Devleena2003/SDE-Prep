@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Devleena2003/SDE-Prep/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Devleena2003/SDE-Prep/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/Devleena2003/SDE-Prep/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Devleena2003/SDE-Prep/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Devleena2003/SDE-Prep/tree/master/0322-coin-change) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Devleena2003/SDE-Prep/tree/master/0004-median-of-two-sorted-arrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Devleena2003/SDE-Prep/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Devleena2003/SDE-Prep/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Devleena2003/SDE-Prep/tree/master/0540-single-element-in-a-sorted-array) |
 ## Stack
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/Devleena2003/SDE-Prep/tree/master/0289-game-of-life) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Devleena2003/SDE-Prep/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Simulation
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Devleena2003/SDE-Prep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Devleena2003/SDE-Prep/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0240-search-a-2d-matrix-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
