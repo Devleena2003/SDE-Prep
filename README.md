@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Devleena2003/SDE-Prep/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Devleena2003/SDE-Prep/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2047-find-a-peak-element-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/2047-find-a-peak-element-ii) |
+| [2145-grid-game](https://github.com/Devleena2003/SDE-Prep/tree/master/2145-grid-game) |
 | [2227-sum-of-subarray-ranges](https://github.com/Devleena2003/SDE-Prep/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Devleena2003/SDE-Prep/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Devleena2003/SDE-Prep/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Devleena2003/SDE-Prep/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Devleena2003/SDE-Prep/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Devleena2003/SDE-Prep/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/Devleena2003/SDE-Prep/tree/master/2145-grid-game) |
 | [2465-shifting-letters-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Devleena2003/SDE-Prep/tree/master/2691-count-vowel-strings-in-ranges) |
 ## String
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Devleena2003/SDE-Prep/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/2047-find-a-peak-element-ii) |
+| [2145-grid-game](https://github.com/Devleena2003/SDE-Prep/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Devleena2003/SDE-Prep/tree/master/2685-first-completely-painted-row-or-column) |
 ## Simulation
 |  |
