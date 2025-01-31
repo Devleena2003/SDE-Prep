@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Devleena2003/SDE-Prep/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/Devleena2003/SDE-Prep/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/Devleena2003/SDE-Prep/tree/master/0735-asteroid-collision) |
+| [0854-making-a-large-island](https://github.com/Devleena2003/SDE-Prep/tree/master/0854-making-a-large-island) |
 | [0952-word-subsets](https://github.com/Devleena2003/SDE-Prep/tree/master/0952-word-subsets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Devleena2003/SDE-Prep/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Devleena2003/SDE-Prep/tree/master/1046-max-consecutive-ones-iii) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/Devleena2003/SDE-Prep/tree/master/0289-game-of-life) |
 | [0407-trapping-rain-water-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0407-trapping-rain-water-ii) |
+| [0854-making-a-large-island](https://github.com/Devleena2003/SDE-Prep/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Devleena2003/SDE-Prep/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Devleena2003/SDE-Prep/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Devleena2003/SDE-Prep/tree/master/1876-map-of-highest-peak) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Devleena2003/SDE-Prep/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Devleena2003/SDE-Prep/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/Devleena2003/SDE-Prep/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Devleena2003/SDE-Prep/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Devleena2003/SDE-Prep/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Devleena2003/SDE-Prep/tree/master/1558-course-schedule-iv) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Devleena2003/SDE-Prep/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Devleena2003/SDE-Prep/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/Devleena2003/SDE-Prep/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Devleena2003/SDE-Prep/tree/master/1396-count-servers-that-communicate) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Devleena2003/SDE-Prep/tree/master/1558-course-schedule-iv) |
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Devleena2003/SDE-Prep/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/Devleena2003/SDE-Prep/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Devleena2003/SDE-Prep/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Devleena2003/SDE-Prep/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Devleena2003/SDE-Prep/tree/master/2764-maximum-number-of-fish-in-a-grid) |
