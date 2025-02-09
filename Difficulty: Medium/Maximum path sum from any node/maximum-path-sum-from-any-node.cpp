@@ -3,7 +3,8 @@
 using namespace std;
 
 // Tree Node
-struct Node {
+class Node {
+  public:
     int data;
     Node *left;
     Node *right;
@@ -21,7 +22,7 @@ Node *buildTree(string str) {
         return NULL;
 
     // Creating vector of strings from input
-    // string after spliting by space
+    // string after splitting by space
     vector<string> ip;
 
     istringstream iss(str);
@@ -80,11 +81,24 @@ Node *buildTree(string str) {
 
 // } Driver Code Ends
 // User Fuction template for C++
+/*
+// Tree Node
+class Node {
+public:
+    int data;
+    Node *left;
+    Node *right;
 
+    Node(int val) {
+        data = val;
+        left = right = NULL;
+    }
+};
+*/
 class Solution {
   public:
-    //Function to return maximum path sum from any node in a tree.
-      int f(Node* root , int &maxi){
+    // Function to return maximum path sum from any node in a tree.
+          int f(Node* root , int &maxi){
         if(root == NULL) return 0;
         int leftSum = f(root->left , maxi);
         int rightSum = f(root->right , maxi);
@@ -93,17 +107,16 @@ class Solution {
         maxi = max(maxi,root->data + leftSum + rightSum);
         return root->data + max(leftSum , rightSum);
     }
-    int findMaxSum(Node* root)
-    {
-        // Your code goes here
-        int maxi = INT_MIN;
+
+    int findMaxSum(Node *root) {
+        // code here
+          int maxi = INT_MIN;
         int temp = f(root , maxi);
         return maxi;
     }
 };
 
 //{ Driver Code Starts.
-
 
 int main() {
     int tc;
@@ -115,9 +128,11 @@ int main() {
         Node *root = buildTree(treeString);
         cout << ob.findMaxSum(root) << "\n";
 
+        cout << "~"
+             << "\n";
     }
-
 
     return 0;
 }
+
 // } Driver Code Ends
