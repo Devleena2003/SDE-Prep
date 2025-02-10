@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Devleena2003/SDE-Prep/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Devleena2003/SDE-Prep/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/Devleena2003/SDE-Prep/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Devleena2003/SDE-Prep/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Dynamic Programming
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Devleena2003/SDE-Prep/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Devleena2003/SDE-Prep/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2227-sum-of-subarray-ranges](https://github.com/Devleena2003/SDE-Prep/tree/master/2227-sum-of-subarray-ranges) |
+| [3447-clear-digits](https://github.com/Devleena2003/SDE-Prep/tree/master/3447-clear-digits) |
 ## Design
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Devleena2003/SDE-Prep/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/Devleena2003/SDE-Prep/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Devleena2003/SDE-Prep/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3447-clear-digits](https://github.com/Devleena2003/SDE-Prep/tree/master/3447-clear-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
