@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Devleena2003/SDE-Prep/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Devleena2003/SDE-Prep/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Devleena2003/SDE-Prep/tree/master/1524-string-matching-in-an-array) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Devleena2003/SDE-Prep/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Devleena2003/SDE-Prep/tree/master/1646-kth-missing-positive-number) |
 | [1876-map-of-highest-peak](https://github.com/Devleena2003/SDE-Prep/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Devleena2003/SDE-Prep/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Devleena2003/SDE-Prep/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Devleena2003/SDE-Prep/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Devleena2003/SDE-Prep/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Devleena2003/SDE-Prep/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Devleena2003/SDE-Prep/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/2047-find-a-peak-element-ii) |
 ## Stack
