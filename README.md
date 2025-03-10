@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Devleena2003/SDE-Prep/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/Devleena2003/SDE-Prep/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Devleena2003/SDE-Prep/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Devleena2003/SDE-Prep/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Devleena2003/SDE-Prep/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Devleena2003/SDE-Prep/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Devleena2003/SDE-Prep/tree/master/1046-max-consecutive-ones-iii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Devleena2003/SDE-Prep/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/3483-alternating-groups-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Trie
 |  |
 | ------- |
