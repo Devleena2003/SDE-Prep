@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Devleena2003/SDE-Prep/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/Devleena2003/SDE-Prep/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/Devleena2003/SDE-Prep/tree/master/0735-asteroid-collision) |
+| [0797-rabbits-in-forest](https://github.com/Devleena2003/SDE-Prep/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/Devleena2003/SDE-Prep/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Devleena2003/SDE-Prep/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Devleena2003/SDE-Prep/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Devleena2003/SDE-Prep/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Devleena2003/SDE-Prep/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Devleena2003/SDE-Prep/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0797-rabbits-in-forest](https://github.com/Devleena2003/SDE-Prep/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Devleena2003/SDE-Prep/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Devleena2003/SDE-Prep/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Devleena2003/SDE-Prep/tree/master/0952-word-subsets) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/Devleena2003/SDE-Prep/tree/master/0135-candy) |
 | [0621-task-scheduler](https://github.com/Devleena2003/SDE-Prep/tree/master/0621-task-scheduler) |
+| [0797-rabbits-in-forest](https://github.com/Devleena2003/SDE-Prep/tree/master/0797-rabbits-in-forest) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Devleena2003/SDE-Prep/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Devleena2003/SDE-Prep/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Devleena2003/SDE-Prep/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -566,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Devleena2003/SDE-Prep/tree/master/0231-power-of-two) |
+| [0797-rabbits-in-forest](https://github.com/Devleena2003/SDE-Prep/tree/master/0797-rabbits-in-forest) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Devleena2003/SDE-Prep/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Devleena2003/SDE-Prep/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/Devleena2003/SDE-Prep/tree/master/2050-count-good-numbers) |
