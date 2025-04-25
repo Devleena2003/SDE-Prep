@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Devleena2003/SDE-Prep/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Devleena2003/SDE-Prep/tree/master/2792-neighboring-bitwise-xor) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Devleena2003/SDE-Prep/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2915-count-of-interesting-subarrays](https://github.com/Devleena2003/SDE-Prep/tree/master/2915-count-of-interesting-subarrays) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Devleena2003/SDE-Prep/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Devleena2003/SDE-Prep/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-the-hidden-sequences](https://github.com/Devleena2003/SDE-Prep/tree/master/2249-count-the-hidden-sequences) |
 | [2465-shifting-letters-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Devleena2003/SDE-Prep/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2915-count-of-interesting-subarrays](https://github.com/Devleena2003/SDE-Prep/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Devleena2003/SDE-Prep/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/3643-zero-array-transformation-ii) |
 ## String
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Devleena2003/SDE-Prep/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Devleena2003/SDE-Prep/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Devleena2003/SDE-Prep/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2915-count-of-interesting-subarrays](https://github.com/Devleena2003/SDE-Prep/tree/master/2915-count-of-interesting-subarrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Devleena2003/SDE-Prep/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3548-find-the-count-of-good-integers](https://github.com/Devleena2003/SDE-Prep/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
