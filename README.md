@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/Devleena2003/SDE-Prep/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/Devleena2003/SDE-Prep/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Devleena2003/SDE-Prep/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Devleena2003/SDE-Prep/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Devleena2003/SDE-Prep/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2227-sum-of-subarray-ranges](https://github.com/Devleena2003/SDE-Prep/tree/master/2227-sum-of-subarray-ranges) |
 | [2249-count-the-hidden-sequences](https://github.com/Devleena2003/SDE-Prep/tree/master/2249-count-the-hidden-sequences) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Devleena2003/SDE-Prep/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Devleena2003/SDE-Prep/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/2047-find-a-peak-element-ii) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Devleena2003/SDE-Prep/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Devleena2003/SDE-Prep/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Devleena2003/SDE-Prep/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Devleena2003/SDE-Prep/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Devleena2003/SDE-Prep/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Devleena2003/SDE-Prep/tree/master/1777-determine-if-two-strings-are-close) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Devleena2003/SDE-Prep/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Devleena2003/SDE-Prep/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Devleena2003/SDE-Prep/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Devleena2003/SDE-Prep/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Devleena2003/SDE-Prep/tree/master/2681-put-marbles-in-bags) |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Devleena2003/SDE-Prep/tree/master/0621-task-scheduler) |
 | [0797-rabbits-in-forest](https://github.com/Devleena2003/SDE-Prep/tree/master/0797-rabbits-in-forest) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Devleena2003/SDE-Prep/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Devleena2003/SDE-Prep/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Devleena2003/SDE-Prep/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Devleena2003/SDE-Prep/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/Devleena2003/SDE-Prep/tree/master/2509-minimize-xor) |
@@ -616,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Devleena2003/SDE-Prep/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Devleena2003/SDE-Prep/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Devleena2003/SDE-Prep/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Enumeration
@@ -644,5 +649,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Devleena2003/SDE-Prep/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Devleena2003/SDE-Prep/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
