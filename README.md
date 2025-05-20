@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Devleena2003/SDE-Prep/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Devleena2003/SDE-Prep/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Devleena2003/SDE-Prep/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Devleena2003/SDE-Prep/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2047-find-a-peak-element-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/2047-find-a-peak-element-ii) |
 | [2107-find-unique-binary-string](https://github.com/Devleena2003/SDE-Prep/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/Devleena2003/SDE-Prep/tree/master/2145-grid-game) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Devleena2003/SDE-Prep/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Devleena2003/SDE-Prep/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Devleena2003/SDE-Prep/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Devleena2003/SDE-Prep/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Devleena2003/SDE-Prep/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Devleena2003/SDE-Prep/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Devleena2003/SDE-Prep/tree/master/2456-construct-smallest-number-from-di-string) |
