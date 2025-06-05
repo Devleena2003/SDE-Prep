@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Devleena2003/SDE-Prep/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/Devleena2003/SDE-Prep/tree/master/0621-task-scheduler) |
+| [0724-find-pivot-index](https://github.com/Devleena2003/SDE-Prep/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Devleena2003/SDE-Prep/tree/master/0735-asteroid-collision) |
 | [0797-rabbits-in-forest](https://github.com/Devleena2003/SDE-Prep/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/Devleena2003/SDE-Prep/tree/master/0854-making-a-large-island) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Devleena2003/SDE-Prep/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Devleena2003/SDE-Prep/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Devleena2003/SDE-Prep/tree/master/1046-max-consecutive-ones-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Devleena2003/SDE-Prep/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Devleena2003/SDE-Prep/tree/master/1537-maximum-score-after-splitting-a-string) |
