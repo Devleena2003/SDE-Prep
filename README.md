@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Devleena2003/SDE-Prep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/Devleena2003/SDE-Prep/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Devleena2003/SDE-Prep/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Devleena2003/SDE-Prep/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Devleena2003/SDE-Prep/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0213-house-robber-ii) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Devleena2003/SDE-Prep/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/Devleena2003/SDE-Prep/tree/master/0289-game-of-life) |
 | [0407-trapping-rain-water-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0407-trapping-rain-water-ii) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Devleena2003/SDE-Prep/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0130-surrounded-regions](https://github.com/Devleena2003/SDE-Prep/tree/master/0130-surrounded-regions) |
 | [0226-invert-binary-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Devleena2003/SDE-Prep/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0407-trapping-rain-water-ii) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/0098-validate-binary-search-tree) |
+| [0130-surrounded-regions](https://github.com/Devleena2003/SDE-Prep/tree/master/0130-surrounded-regions) |
 | [0226-invert-binary-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Devleena2003/SDE-Prep/tree/master/0417-pacific-atlantic-water-flow) |
@@ -639,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Devleena2003/SDE-Prep/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Devleena2003/SDE-Prep/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Devleena2003/SDE-Prep/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Devleena2003/SDE-Prep/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/Devleena2003/SDE-Prep/tree/master/0854-making-a-large-island) |
