@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Devleena2003/SDE-Prep/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Devleena2003/SDE-Prep/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/Devleena2003/SDE-Prep/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/Devleena2003/SDE-Prep/tree/master/0091-decode-ways) |
 | [0132-palindrome-partitioning-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Devleena2003/SDE-Prep/tree/master/0139-word-break) |
@@ -669,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Devleena2003/SDE-Prep/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/Devleena2003/SDE-Prep/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/Devleena2003/SDE-Prep/tree/master/0371-sum-of-two-integers) |
 | [0797-rabbits-in-forest](https://github.com/Devleena2003/SDE-Prep/tree/master/0797-rabbits-in-forest) |
@@ -719,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Devleena2003/SDE-Prep/tree/master/0062-unique-paths) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Devleena2003/SDE-Prep/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/Devleena2003/SDE-Prep/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Devleena2003/SDE-Prep/tree/master/3637-count-number-of-balanced-permutations) |
