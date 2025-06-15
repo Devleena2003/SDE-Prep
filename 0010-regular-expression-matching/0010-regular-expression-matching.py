@@ -1,8 +1,6 @@
 class Solution:
     def isMatch(self, s: str, p: str) -> bool:
-      from functools import lru_cache
-
-      @lru_cache(None)
+     
       def dp(i:int ,j:int)->bool:
         if j==len(p):
             return i==len(s)
