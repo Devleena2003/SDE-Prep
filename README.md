@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Devleena2003/SDE-Prep/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Devleena2003/SDE-Prep/tree/master/0038-count-and-say) |
+| [0076-minimum-window-substring](https://github.com/Devleena2003/SDE-Prep/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Devleena2003/SDE-Prep/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Devleena2003/SDE-Prep/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0132-palindrome-partitioning-ii) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Devleena2003/SDE-Prep/tree/master/0076-minimum-window-substring) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Devleena2003/SDE-Prep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Devleena2003/SDE-Prep/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Devleena2003/SDE-Prep/tree/master/0139-word-break) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Devleena2003/SDE-Prep/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Devleena2003/SDE-Prep/tree/master/0424-longest-repeating-character-replacement) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Devleena2003/SDE-Prep/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Devleena2003/SDE-Prep/tree/master/1046-max-consecutive-ones-iii) |
