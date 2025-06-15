@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Devleena2003/SDE-Prep/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Devleena2003/SDE-Prep/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Devleena2003/SDE-Prep/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Devleena2003/SDE-Prep/tree/master/0038-count-and-say) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Devleena2003/SDE-Prep/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Devleena2003/SDE-Prep/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Devleena2003/SDE-Prep/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Devleena2003/SDE-Prep/tree/master/0042-trapping-rain-water) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Devleena2003/SDE-Prep/tree/master/0010-regular-expression-matching) |
 | [0143-reorder-list](https://github.com/Devleena2003/SDE-Prep/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/Devleena2003/SDE-Prep/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Devleena2003/SDE-Prep/tree/master/0234-palindrome-linked-list) |
