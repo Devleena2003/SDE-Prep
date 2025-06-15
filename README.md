@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Devleena2003/SDE-Prep/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/Devleena2003/SDE-Prep/tree/master/0647-palindromic-substrings) |
 | [0868-push-dominoes](https://github.com/Devleena2003/SDE-Prep/tree/master/0868-push-dominoes) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/Devleena2003/SDE-Prep/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Devleena2003/SDE-Prep/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Devleena2003/SDE-Prep/tree/master/1170-shortest-common-supersequence) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Devleena2003/SDE-Prep/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Devleena2003/SDE-Prep/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Devleena2003/SDE-Prep/tree/master/0854-making-a-large-island) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/Devleena2003/SDE-Prep/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1073-number-of-enclaves](https://github.com/Devleena2003/SDE-Prep/tree/master/1073-number-of-enclaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Devleena2003/SDE-Prep/tree/master/1396-count-servers-that-communicate) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Devleena2003/SDE-Prep/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Devleena2003/SDE-Prep/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/Devleena2003/SDE-Prep/tree/master/0371-sum-of-two-integers) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/Devleena2003/SDE-Prep/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Devleena2003/SDE-Prep/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Devleena2003/SDE-Prep/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Devleena2003/SDE-Prep/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -636,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Devleena2003/SDE-Prep/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Devleena2003/SDE-Prep/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Devleena2003/SDE-Prep/tree/master/0820-find-eventual-safe-states) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/Devleena2003/SDE-Prep/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Devleena2003/SDE-Prep/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Devleena2003/SDE-Prep/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Devleena2003/SDE-Prep/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -755,4 +759,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Devleena2003/SDE-Prep/tree/master/0139-word-break) |
+## Bitmask
+|  |
+| ------- |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/Devleena2003/SDE-Prep/tree/master/0877-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
