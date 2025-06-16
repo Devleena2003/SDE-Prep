@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Devleena2003/SDE-Prep/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Devleena2003/SDE-Prep/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/Devleena2003/SDE-Prep/tree/master/0338-counting-bits) |
 | [0542-01-matrix](https://github.com/Devleena2003/SDE-Prep/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/Devleena2003/SDE-Prep/tree/master/0647-palindromic-substrings) |
 | [0868-push-dominoes](https://github.com/Devleena2003/SDE-Prep/tree/master/0868-push-dominoes) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Devleena2003/SDE-Prep/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/Devleena2003/SDE-Prep/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Devleena2003/SDE-Prep/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/Devleena2003/SDE-Prep/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Devleena2003/SDE-Prep/tree/master/0371-sum-of-two-integers) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Devleena2003/SDE-Prep/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Devleena2003/SDE-Prep/tree/master/2059-unique-length-3-palindromic-subsequences) |
