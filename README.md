@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Devleena2003/SDE-Prep/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Devleena2003/SDE-Prep/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Devleena2003/SDE-Prep/tree/master/1477-product-of-the-last-k-numbers) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Devleena2003/SDE-Prep/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Devleena2003/SDE-Prep/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Devleena2003/SDE-Prep/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/Devleena2003/SDE-Prep/tree/master/1524-string-matching-in-an-array) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0229-majority-element-ii) |
 | [0621-task-scheduler](https://github.com/Devleena2003/SDE-Prep/tree/master/0621-task-scheduler) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Devleena2003/SDE-Prep/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Devleena2003/SDE-Prep/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Devleena2003/SDE-Prep/tree/master/1777-determine-if-two-strings-are-close) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Devleena2003/SDE-Prep/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Devleena2003/SDE-Prep/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Devleena2003/SDE-Prep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0407-trapping-rain-water-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0407-trapping-rain-water-ii) |
 | [0621-task-scheduler](https://github.com/Devleena2003/SDE-Prep/tree/master/0621-task-scheduler) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Devleena2003/SDE-Prep/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Devleena2003/SDE-Prep/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2434-design-a-number-container-system](https://github.com/Devleena2003/SDE-Prep/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Devleena2003/SDE-Prep/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -615,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Devleena2003/SDE-Prep/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Devleena2003/SDE-Prep/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Devleena2003/SDE-Prep/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Devleena2003/SDE-Prep/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Devleena2003/SDE-Prep/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Devleena2003/SDE-Prep/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Devleena2003/SDE-Prep/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
