@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Devleena2003/SDE-Prep/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/2047-find-a-peak-element-ii) |
 | [2107-find-unique-binary-string](https://github.com/Devleena2003/SDE-Prep/tree/master/2107-find-unique-binary-string) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Devleena2003/SDE-Prep/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/Devleena2003/SDE-Prep/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Devleena2003/SDE-Prep/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Devleena2003/SDE-Prep/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Devleena2003/SDE-Prep/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Devleena2003/SDE-Prep/tree/master/1876-map-of-highest-peak) |
 | [2047-find-a-peak-element-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/2047-find-a-peak-element-ii) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Devleena2003/SDE-Prep/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/Devleena2003/SDE-Prep/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Devleena2003/SDE-Prep/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Devleena2003/SDE-Prep/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Devleena2003/SDE-Prep/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/Devleena2003/SDE-Prep/tree/master/0735-asteroid-collision) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Devleena2003/SDE-Prep/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Devleena2003/SDE-Prep/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Devleena2003/SDE-Prep/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Devleena2003/SDE-Prep/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/Devleena2003/SDE-Prep/tree/master/2551-apply-operations-to-an-array) |
