@@ -567,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Devleena2003/SDE-Prep/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Devleena2003/SDE-Prep/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/Devleena2003/SDE-Prep/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Devleena2003/SDE-Prep/tree/master/0231-power-of-two) |
@@ -709,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Devleena2003/SDE-Prep/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/Devleena2003/SDE-Prep/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/Devleena2003/SDE-Prep/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/Devleena2003/SDE-Prep/tree/master/0371-sum-of-two-integers) |
