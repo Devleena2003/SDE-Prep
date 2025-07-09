@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Devleena2003/SDE-Prep/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Devleena2003/SDE-Prep/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Devleena2003/SDE-Prep/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Devleena2003/SDE-Prep/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Devleena2003/SDE-Prep/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/Devleena2003/SDE-Prep/tree/master/0647-palindromic-substrings) |
 | [0812-rotate-string](https://github.com/Devleena2003/SDE-Prep/tree/master/0812-rotate-string) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Devleena2003/SDE-Prep/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Devleena2003/SDE-Prep/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Devleena2003/SDE-Prep/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Devleena2003/SDE-Prep/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/Devleena2003/SDE-Prep/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/Devleena2003/SDE-Prep/tree/master/0647-palindromic-substrings) |
 | [0868-push-dominoes](https://github.com/Devleena2003/SDE-Prep/tree/master/0868-push-dominoes) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Devleena2003/SDE-Prep/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Devleena2003/SDE-Prep/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Devleena2003/SDE-Prep/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Devleena2003/SDE-Prep/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Devleena2003/SDE-Prep/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Devleena2003/SDE-Prep/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0868-push-dominoes](https://github.com/Devleena2003/SDE-Prep/tree/master/0868-push-dominoes) |
