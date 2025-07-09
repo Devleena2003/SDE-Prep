@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Devleena2003/SDE-Prep/tree/master/0647-palindromic-substrings) |
 | [0812-rotate-string](https://github.com/Devleena2003/SDE-Prep/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/Devleena2003/SDE-Prep/tree/master/0868-push-dominoes) |
+| [0874-backspace-string-compare](https://github.com/Devleena2003/SDE-Prep/tree/master/0874-backspace-string-compare) |
 | [0952-word-subsets](https://github.com/Devleena2003/SDE-Prep/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Devleena2003/SDE-Prep/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Devleena2003/SDE-Prep/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Devleena2003/SDE-Prep/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Devleena2003/SDE-Prep/tree/master/0735-asteroid-collision) |
+| [0874-backspace-string-compare](https://github.com/Devleena2003/SDE-Prep/tree/master/0874-backspace-string-compare) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Devleena2003/SDE-Prep/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Devleena2003/SDE-Prep/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Devleena2003/SDE-Prep/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Devleena2003/SDE-Prep/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Devleena2003/SDE-Prep/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0868-push-dominoes](https://github.com/Devleena2003/SDE-Prep/tree/master/0868-push-dominoes) |
+| [0874-backspace-string-compare](https://github.com/Devleena2003/SDE-Prep/tree/master/0874-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/Devleena2003/SDE-Prep/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Devleena2003/SDE-Prep/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Devleena2003/SDE-Prep/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0289-game-of-life](https://github.com/Devleena2003/SDE-Prep/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/Devleena2003/SDE-Prep/tree/master/0735-asteroid-collision) |
+| [0874-backspace-string-compare](https://github.com/Devleena2003/SDE-Prep/tree/master/0874-backspace-string-compare) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Devleena2003/SDE-Prep/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Devleena2003/SDE-Prep/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Devleena2003/SDE-Prep/tree/master/2265-partition-array-according-to-given-pivot) |
