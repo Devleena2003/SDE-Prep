@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Devleena2003/SDE-Prep/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Devleena2003/SDE-Prep/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Devleena2003/SDE-Prep/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/Devleena2003/SDE-Prep/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Devleena2003/SDE-Prep/tree/master/0042-trapping-rain-water) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Devleena2003/SDE-Prep/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Devleena2003/SDE-Prep/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Devleena2003/SDE-Prep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0229-majority-element-ii) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Devleena2003/SDE-Prep/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Devleena2003/SDE-Prep/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Devleena2003/SDE-Prep/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Devleena2003/SDE-Prep/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Devleena2003/SDE-Prep/tree/master/0125-valid-palindrome) |
