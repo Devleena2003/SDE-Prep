@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Devleena2003/SDE-Prep/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Devleena2003/SDE-Prep/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Devleena2003/SDE-Prep/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Devleena2003/SDE-Prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Devleena2003/SDE-Prep/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Devleena2003/SDE-Prep/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/Devleena2003/SDE-Prep/tree/master/0076-minimum-window-substring) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Devleena2003/SDE-Prep/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Devleena2003/SDE-Prep/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Devleena2003/SDE-Prep/tree/master/0016-3sum-closest) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Devleena2003/SDE-Prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Devleena2003/SDE-Prep/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Devleena2003/SDE-Prep/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Devleena2003/SDE-Prep/tree/master/0141-linked-list-cycle) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Devleena2003/SDE-Prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/Devleena2003/SDE-Prep/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Devleena2003/SDE-Prep/tree/master/1524-string-matching-in-an-array) |
