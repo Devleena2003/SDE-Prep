@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Devleena2003/SDE-Prep/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Devleena2003/SDE-Prep/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/Devleena2003/SDE-Prep/tree/master/1073-number-of-enclaves) |
+| [1127-last-stone-weight](https://github.com/Devleena2003/SDE-Prep/tree/master/1127-last-stone-weight) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Devleena2003/SDE-Prep/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/Devleena2003/SDE-Prep/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Devleena2003/SDE-Prep/tree/master/1370-count-number-of-nice-subarrays) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Devleena2003/SDE-Prep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0407-trapping-rain-water-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0407-trapping-rain-water-ii) |
 | [0621-task-scheduler](https://github.com/Devleena2003/SDE-Prep/tree/master/0621-task-scheduler) |
+| [1127-last-stone-weight](https://github.com/Devleena2003/SDE-Prep/tree/master/1127-last-stone-weight) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Devleena2003/SDE-Prep/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Devleena2003/SDE-Prep/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2434-design-a-number-container-system](https://github.com/Devleena2003/SDE-Prep/tree/master/2434-design-a-number-container-system) |
