@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Devleena2003/SDE-Prep/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Devleena2003/SDE-Prep/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Devleena2003/SDE-Prep/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/Devleena2003/SDE-Prep/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Devleena2003/SDE-Prep/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/Devleena2003/SDE-Prep/tree/master/0647-palindromic-substrings) |
 | [0812-rotate-string](https://github.com/Devleena2003/SDE-Prep/tree/master/0812-rotate-string) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Devleena2003/SDE-Prep/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Devleena2003/SDE-Prep/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Devleena2003/SDE-Prep/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Devleena2003/SDE-Prep/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Devleena2003/SDE-Prep/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Devleena2003/SDE-Prep/tree/master/0735-asteroid-collision) |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Devleena2003/SDE-Prep/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Devleena2003/SDE-Prep/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Devleena2003/SDE-Prep/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0503-next-greater-element-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Devleena2003/SDE-Prep/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -663,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/Devleena2003/SDE-Prep/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/Devleena2003/SDE-Prep/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/Devleena2003/SDE-Prep/tree/master/0621-task-scheduler) |
 | [0797-rabbits-in-forest](https://github.com/Devleena2003/SDE-Prep/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Devleena2003/SDE-Prep/tree/master/1049-minimum-domino-rotations-for-equal-row) |
