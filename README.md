@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Devleena2003/SDE-Prep/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Devleena2003/SDE-Prep/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Devleena2003/SDE-Prep/tree/master/0143-reorder-list) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Devleena2003/SDE-Prep/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Devleena2003/SDE-Prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Devleena2003/SDE-Prep/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Devleena2003/SDE-Prep/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/Devleena2003/SDE-Prep/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Devleena2003/SDE-Prep/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Devleena2003/SDE-Prep/tree/master/0143-reorder-list) |
