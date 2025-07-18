@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Devleena2003/SDE-Prep/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Devleena2003/SDE-Prep/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/Devleena2003/SDE-Prep/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/Devleena2003/SDE-Prep/tree/master/0630-course-schedule-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/Devleena2003/SDE-Prep/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Devleena2003/SDE-Prep/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Devleena2003/SDE-Prep/tree/master/0735-asteroid-collision) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0229-majority-element-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Devleena2003/SDE-Prep/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/Devleena2003/SDE-Prep/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/Devleena2003/SDE-Prep/tree/master/0630-course-schedule-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Devleena2003/SDE-Prep/tree/master/1019-squares-of-a-sorted-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Devleena2003/SDE-Prep/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Devleena2003/SDE-Prep/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/Devleena2003/SDE-Prep/tree/master/0355-design-twitter) |
 | [0407-trapping-rain-water-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0407-trapping-rain-water-ii) |
 | [0621-task-scheduler](https://github.com/Devleena2003/SDE-Prep/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/Devleena2003/SDE-Prep/tree/master/0630-course-schedule-iii) |
 | [1127-last-stone-weight](https://github.com/Devleena2003/SDE-Prep/tree/master/1127-last-stone-weight) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Devleena2003/SDE-Prep/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Devleena2003/SDE-Prep/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -680,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Devleena2003/SDE-Prep/tree/master/0402-remove-k-digits) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Devleena2003/SDE-Prep/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/Devleena2003/SDE-Prep/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/Devleena2003/SDE-Prep/tree/master/0630-course-schedule-iii) |
 | [0797-rabbits-in-forest](https://github.com/Devleena2003/SDE-Prep/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Devleena2003/SDE-Prep/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Devleena2003/SDE-Prep/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
