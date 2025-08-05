@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Devleena2003/SDE-Prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Devleena2003/SDE-Prep/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Devleena2003/SDE-Prep/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/Devleena2003/SDE-Prep/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/Devleena2003/SDE-Prep/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Devleena2003/SDE-Prep/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Devleena2003/SDE-Prep/tree/master/0125-valid-palindrome) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Devleena2003/SDE-Prep/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Devleena2003/SDE-Prep/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Devleena2003/SDE-Prep/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Devleena2003/SDE-Prep/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/Devleena2003/SDE-Prep/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/Devleena2003/SDE-Prep/tree/master/0085-maximal-rectangle) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Devleena2003/SDE-Prep/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/Devleena2003/SDE-Prep/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/Devleena2003/SDE-Prep/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/Devleena2003/SDE-Prep/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Devleena2003/SDE-Prep/tree/master/0234-palindrome-linked-list) |
@@ -688,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Devleena2003/SDE-Prep/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/Devleena2003/SDE-Prep/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/Devleena2003/SDE-Prep/tree/master/0402-remove-k-digits) |
