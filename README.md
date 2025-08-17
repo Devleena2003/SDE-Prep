@@ -720,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/Devleena2003/SDE-Prep/tree/master/0630-course-schedule-iii) |
 | [0797-rabbits-in-forest](https://github.com/Devleena2003/SDE-Prep/tree/master/0797-rabbits-in-forest) |
 | [0917-boats-to-save-people](https://github.com/Devleena2003/SDE-Prep/tree/master/0917-boats-to-save-people) |
+| [1033-broken-calculator](https://github.com/Devleena2003/SDE-Prep/tree/master/1033-broken-calculator) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Devleena2003/SDE-Prep/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1252-break-a-palindrome](https://github.com/Devleena2003/SDE-Prep/tree/master/1252-break-a-palindrome) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Devleena2003/SDE-Prep/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -822,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Devleena2003/SDE-Prep/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/Devleena2003/SDE-Prep/tree/master/0371-sum-of-two-integers) |
 | [0797-rabbits-in-forest](https://github.com/Devleena2003/SDE-Prep/tree/master/0797-rabbits-in-forest) |
+| [1033-broken-calculator](https://github.com/Devleena2003/SDE-Prep/tree/master/1033-broken-calculator) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Devleena2003/SDE-Prep/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Devleena2003/SDE-Prep/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Devleena2003/SDE-Prep/tree/master/1421-find-numbers-with-even-number-of-digits) |
