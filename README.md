@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Devleena2003/SDE-Prep/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Devleena2003/SDE-Prep/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/Devleena2003/SDE-Prep/tree/master/1656-count-good-triplets) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Devleena2003/SDE-Prep/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Devleena2003/SDE-Prep/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Devleena2003/SDE-Prep/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/Devleena2003/SDE-Prep/tree/master/1876-map-of-highest-peak) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Devleena2003/SDE-Prep/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/Devleena2003/SDE-Prep/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Devleena2003/SDE-Prep/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Devleena2003/SDE-Prep/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Devleena2003/SDE-Prep/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Devleena2003/SDE-Prep/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/Devleena2003/SDE-Prep/tree/master/1894-merge-strings-alternately) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Devleena2003/SDE-Prep/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Devleena2003/SDE-Prep/tree/master/1170-shortest-common-supersequence) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Devleena2003/SDE-Prep/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Devleena2003/SDE-Prep/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Devleena2003/SDE-Prep/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Devleena2003/SDE-Prep/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -726,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Devleena2003/SDE-Prep/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1448-maximum-69-number](https://github.com/Devleena2003/SDE-Prep/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Devleena2003/SDE-Prep/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Devleena2003/SDE-Prep/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Devleena2003/SDE-Prep/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Devleena2003/SDE-Prep/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Devleena2003/SDE-Prep/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
