@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/Devleena2003/SDE-Prep/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Devleena2003/SDE-Prep/tree/master/1170-shortest-common-supersequence) |
 | [1252-break-a-palindrome](https://github.com/Devleena2003/SDE-Prep/tree/master/1252-break-a-palindrome) |
+| [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Devleena2003/SDE-Prep/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Devleena2003/SDE-Prep/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Devleena2003/SDE-Prep/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Devleena2003/SDE-Prep/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
