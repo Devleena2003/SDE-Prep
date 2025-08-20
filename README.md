@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Devleena2003/SDE-Prep/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Devleena2003/SDE-Prep/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Devleena2003/SDE-Prep/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Devleena2003/SDE-Prep/tree/master/1435-xor-queries-of-a-subarray) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Devleena2003/SDE-Prep/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Devleena2003/SDE-Prep/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Devleena2003/SDE-Prep/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Devleena2003/SDE-Prep/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Devleena2003/SDE-Prep/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Devleena2003/SDE-Prep/tree/master/1370-count-number-of-nice-subarrays) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Devleena2003/SDE-Prep/tree/master/1435-xor-queries-of-a-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Devleena2003/SDE-Prep/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Devleena2003/SDE-Prep/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Devleena2003/SDE-Prep/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Devleena2003/SDE-Prep/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Devleena2003/SDE-Prep/tree/master/0371-sum-of-two-integers) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Devleena2003/SDE-Prep/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Devleena2003/SDE-Prep/tree/master/1435-xor-queries-of-a-subarray) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Devleena2003/SDE-Prep/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Devleena2003/SDE-Prep/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Devleena2003/SDE-Prep/tree/master/2323-minimum-bit-flips-to-convert-number) |
