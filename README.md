@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2227-sum-of-subarray-ranges](https://github.com/Devleena2003/SDE-Prep/tree/master/2227-sum-of-subarray-ranges) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Devleena2003/SDE-Prep/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/Devleena2003/SDE-Prep/tree/master/2249-count-the-hidden-sequences) |
+| [2257-earliest-possible-day-of-full-bloom](https://github.com/Devleena2003/SDE-Prep/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Devleena2003/SDE-Prep/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Devleena2003/SDE-Prep/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Devleena2003/SDE-Prep/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Devleena2003/SDE-Prep/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Devleena2003/SDE-Prep/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Devleena2003/SDE-Prep/tree/master/2215-finding-3-digit-even-numbers) |
+| [2257-earliest-possible-day-of-full-bloom](https://github.com/Devleena2003/SDE-Prep/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Devleena2003/SDE-Prep/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Devleena2003/SDE-Prep/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Devleena2003/SDE-Prep/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Devleena2003/SDE-Prep/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Devleena2003/SDE-Prep/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Devleena2003/SDE-Prep/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2257-earliest-possible-day-of-full-bloom](https://github.com/Devleena2003/SDE-Prep/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Devleena2003/SDE-Prep/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Devleena2003/SDE-Prep/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/Devleena2003/SDE-Prep/tree/master/2509-minimize-xor) |
