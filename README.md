@@ -588,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Devleena2003/SDE-Prep/tree/master/0854-making-a-large-island) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Devleena2003/SDE-Prep/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1073-number-of-enclaves](https://github.com/Devleena2003/SDE-Prep/tree/master/1073-number-of-enclaves) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Devleena2003/SDE-Prep/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Devleena2003/SDE-Prep/tree/master/1396-count-servers-that-communicate) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Devleena2003/SDE-Prep/tree/master/1436-get-watched-videos-by-your-friends) |
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Devleena2003/SDE-Prep/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Devleena2003/SDE-Prep/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Devleena2003/SDE-Prep/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Devleena2003/SDE-Prep/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Devleena2003/SDE-Prep/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Devleena2003/SDE-Prep/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/Devleena2003/SDE-Prep/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Devleena2003/SDE-Prep/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Devleena2003/SDE-Prep/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Devleena2003/SDE-Prep/tree/master/1396-count-servers-that-communicate) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -679,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Devleena2003/SDE-Prep/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Devleena2003/SDE-Prep/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Devleena2003/SDE-Prep/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Devleena2003/SDE-Prep/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Devleena2003/SDE-Prep/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
