@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Devleena2003/SDE-Prep/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/Devleena2003/SDE-Prep/tree/master/1073-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/Devleena2003/SDE-Prep/tree/master/1127-last-stone-weight) |
+| [1241-decompress-run-length-encoded-list](https://github.com/Devleena2003/SDE-Prep/tree/master/1241-decompress-run-length-encoded-list) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Devleena2003/SDE-Prep/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/Devleena2003/SDE-Prep/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Devleena2003/SDE-Prep/tree/master/1370-count-number-of-nice-subarrays) |
