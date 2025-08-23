@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Devleena2003/SDE-Prep/tree/master/1073-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/Devleena2003/SDE-Prep/tree/master/1127-last-stone-weight) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Devleena2003/SDE-Prep/tree/master/1241-decompress-run-length-encoded-list) |
+| [1242-matrix-block-sum](https://github.com/Devleena2003/SDE-Prep/tree/master/1242-matrix-block-sum) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Devleena2003/SDE-Prep/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/Devleena2003/SDE-Prep/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Devleena2003/SDE-Prep/tree/master/1370-count-number-of-nice-subarrays) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Devleena2003/SDE-Prep/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/Devleena2003/SDE-Prep/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Devleena2003/SDE-Prep/tree/master/1046-max-consecutive-ones-iii) |
+| [1242-matrix-block-sum](https://github.com/Devleena2003/SDE-Prep/tree/master/1242-matrix-block-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Devleena2003/SDE-Prep/tree/master/1370-count-number-of-nice-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Devleena2003/SDE-Prep/tree/master/1435-xor-queries-of-a-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Devleena2003/SDE-Prep/tree/master/1477-product-of-the-last-k-numbers) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Devleena2003/SDE-Prep/tree/master/0542-01-matrix) |
 | [0854-making-a-large-island](https://github.com/Devleena2003/SDE-Prep/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/Devleena2003/SDE-Prep/tree/master/1073-number-of-enclaves) |
+| [1242-matrix-block-sum](https://github.com/Devleena2003/SDE-Prep/tree/master/1242-matrix-block-sum) |
 | [1396-count-servers-that-communicate](https://github.com/Devleena2003/SDE-Prep/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Devleena2003/SDE-Prep/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Devleena2003/SDE-Prep/tree/master/1876-map-of-highest-peak) |
