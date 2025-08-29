@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Devleena2003/SDE-Prep/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Devleena2003/SDE-Prep/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0045-jump-game-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Devleena2003/SDE-Prep/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Devleena2003/SDE-Prep/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Devleena2003/SDE-Prep/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Devleena2003/SDE-Prep/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/Devleena2003/SDE-Prep/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Devleena2003/SDE-Prep/tree/master/0076-minimum-window-substring) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Devleena2003/SDE-Prep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Devleena2003/SDE-Prep/tree/master/0128-longest-consecutive-sequence) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Devleena2003/SDE-Prep/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/Devleena2003/SDE-Prep/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Devleena2003/SDE-Prep/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Devleena2003/SDE-Prep/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Devleena2003/SDE-Prep/tree/master/0130-surrounded-regions) |
