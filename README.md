@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Devleena2003/SDE-Prep/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Devleena2003/SDE-Prep/tree/master/1435-xor-queries-of-a-subarray) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Devleena2003/SDE-Prep/tree/master/1436-get-watched-videos-by-your-friends) |
+| [1449-print-words-vertically](https://github.com/Devleena2003/SDE-Prep/tree/master/1449-print-words-vertically) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Devleena2003/SDE-Prep/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Devleena2003/SDE-Prep/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Devleena2003/SDE-Prep/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-break-a-palindrome](https://github.com/Devleena2003/SDE-Prep/tree/master/1252-break-a-palindrome) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Devleena2003/SDE-Prep/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Devleena2003/SDE-Prep/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1449-print-words-vertically](https://github.com/Devleena2003/SDE-Prep/tree/master/1449-print-words-vertically) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Devleena2003/SDE-Prep/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Devleena2003/SDE-Prep/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/Devleena2003/SDE-Prep/tree/master/1524-string-matching-in-an-array) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Devleena2003/SDE-Prep/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/Devleena2003/SDE-Prep/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/Devleena2003/SDE-Prep/tree/master/0874-backspace-string-compare) |
+| [1449-print-words-vertically](https://github.com/Devleena2003/SDE-Prep/tree/master/1449-print-words-vertically) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Devleena2003/SDE-Prep/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Devleena2003/SDE-Prep/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Devleena2003/SDE-Prep/tree/master/2265-partition-array-according-to-given-pivot) |
