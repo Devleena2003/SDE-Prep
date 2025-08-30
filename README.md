@@ -636,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Devleena2003/SDE-Prep/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Devleena2003/SDE-Prep/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/Devleena2003/SDE-Prep/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Devleena2003/SDE-Prep/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -662,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Devleena2003/SDE-Prep/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Devleena2003/SDE-Prep/tree/master/1396-count-servers-that-communicate) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/Devleena2003/SDE-Prep/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Devleena2003/SDE-Prep/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Devleena2003/SDE-Prep/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -689,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Devleena2003/SDE-Prep/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Devleena2003/SDE-Prep/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/Devleena2003/SDE-Prep/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Devleena2003/SDE-Prep/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Bit Manipulation
