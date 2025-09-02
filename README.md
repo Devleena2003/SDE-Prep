@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1241-decompress-run-length-encoded-list](https://github.com/Devleena2003/SDE-Prep/tree/master/1241-decompress-run-length-encoded-list) |
 | [1242-matrix-block-sum](https://github.com/Devleena2003/SDE-Prep/tree/master/1242-matrix-block-sum) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Devleena2003/SDE-Prep/tree/master/1253-sort-the-matrix-diagonally) |
+| [1255-reverse-subarray-to-maximize-array-value](https://github.com/Devleena2003/SDE-Prep/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Devleena2003/SDE-Prep/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/Devleena2003/SDE-Prep/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Devleena2003/SDE-Prep/tree/master/1370-count-number-of-nice-subarrays) |
@@ -774,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1033-broken-calculator](https://github.com/Devleena2003/SDE-Prep/tree/master/1033-broken-calculator) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Devleena2003/SDE-Prep/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1252-break-a-palindrome](https://github.com/Devleena2003/SDE-Prep/tree/master/1252-break-a-palindrome) |
+| [1255-reverse-subarray-to-maximize-array-value](https://github.com/Devleena2003/SDE-Prep/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Devleena2003/SDE-Prep/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1448-maximum-69-number](https://github.com/Devleena2003/SDE-Prep/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Devleena2003/SDE-Prep/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -884,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Devleena2003/SDE-Prep/tree/master/0797-rabbits-in-forest) |
 | [1033-broken-calculator](https://github.com/Devleena2003/SDE-Prep/tree/master/1033-broken-calculator) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Devleena2003/SDE-Prep/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1255-reverse-subarray-to-maximize-array-value](https://github.com/Devleena2003/SDE-Prep/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Devleena2003/SDE-Prep/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Devleena2003/SDE-Prep/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/Devleena2003/SDE-Prep/tree/master/1448-maximum-69-number) |
