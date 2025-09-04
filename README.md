@@ -908,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Devleena2003/SDE-Prep/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Devleena2003/SDE-Prep/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Devleena2003/SDE-Prep/tree/master/3637-count-number-of-balanced-permutations) |
+| [3830-find-closest-person](https://github.com/Devleena2003/SDE-Prep/tree/master/3830-find-closest-person) |
 ## Ordered Set
 |  |
 | ------- |
