@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Devleena2003/SDE-Prep/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/Devleena2003/SDE-Prep/tree/master/0630-course-schedule-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/Devleena2003/SDE-Prep/tree/master/0643-maximum-average-subarray-i) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Devleena2003/SDE-Prep/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/Devleena2003/SDE-Prep/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Devleena2003/SDE-Prep/tree/master/0735-asteroid-collision) |
 | [0797-rabbits-in-forest](https://github.com/Devleena2003/SDE-Prep/tree/master/0797-rabbits-in-forest) |
