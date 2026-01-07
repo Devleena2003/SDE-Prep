@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Devleena2003/SDE-Prep/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Devleena2003/SDE-Prep/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Devleena2003/SDE-Prep/tree/master/3364-minimum-positive-sum-subarray) |
 | [3429-special-array-i](https://github.com/Devleena2003/SDE-Prep/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/Devleena2003/SDE-Prep/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Devleena2003/SDE-Prep/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Devleena2003/SDE-Prep/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/Devleena2003/SDE-Prep/tree/master/2915-count-of-interesting-subarrays) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Devleena2003/SDE-Prep/tree/master/3364-minimum-positive-sum-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Devleena2003/SDE-Prep/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/3643-zero-array-transformation-ii) |
 ## String
@@ -841,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/Devleena2003/SDE-Prep/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Devleena2003/SDE-Prep/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Devleena2003/SDE-Prep/tree/master/2626-count-the-number-of-good-subarrays) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Devleena2003/SDE-Prep/tree/master/3364-minimum-positive-sum-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Devleena2003/SDE-Prep/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
