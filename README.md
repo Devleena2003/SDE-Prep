@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Devleena2003/SDE-Prep/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Devleena2003/SDE-Prep/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/Devleena2003/SDE-Prep/tree/master/2551-apply-operations-to-an-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Devleena2003/SDE-Prep/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Devleena2003/SDE-Prep/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Devleena2003/SDE-Prep/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Devleena2003/SDE-Prep/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Devleena2003/SDE-Prep/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Devleena2003/SDE-Prep/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2551-apply-operations-to-an-array](https://github.com/Devleena2003/SDE-Prep/tree/master/2551-apply-operations-to-an-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Devleena2003/SDE-Prep/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/Devleena2003/SDE-Prep/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Devleena2003/SDE-Prep/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Devleena2003/SDE-Prep/tree/master/1917-maximum-average-pass-ratio) |
 | [2434-design-a-number-container-system](https://github.com/Devleena2003/SDE-Prep/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Devleena2003/SDE-Prep/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Devleena2003/SDE-Prep/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Devleena2003/SDE-Prep/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Devleena2003/SDE-Prep/tree/master/2681-put-marbles-in-bags) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
