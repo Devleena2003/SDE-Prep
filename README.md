@@ -756,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Devleena2003/SDE-Prep/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Devleena2003/SDE-Prep/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/Devleena2003/SDE-Prep/tree/master/0461-hamming-distance) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Devleena2003/SDE-Prep/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Devleena2003/SDE-Prep/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Devleena2003/SDE-Prep/tree/master/1435-xor-queries-of-a-subarray) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Devleena2003/SDE-Prep/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -928,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Devleena2003/SDE-Prep/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/Devleena2003/SDE-Prep/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/Devleena2003/SDE-Prep/tree/master/0371-sum-of-two-integers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Devleena2003/SDE-Prep/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/Devleena2003/SDE-Prep/tree/master/0797-rabbits-in-forest) |
 | [1033-broken-calculator](https://github.com/Devleena2003/SDE-Prep/tree/master/1033-broken-calculator) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Devleena2003/SDE-Prep/tree/master/1146-greatest-common-divisor-of-strings) |
