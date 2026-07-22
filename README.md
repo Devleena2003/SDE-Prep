@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Devleena2003/SDE-Prep/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Devleena2003/SDE-Prep/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/Devleena2003/SDE-Prep/tree/master/1656-count-good-triplets) |
+| [1695-maximum-erasure-value](https://github.com/Devleena2003/SDE-Prep/tree/master/1695-maximum-erasure-value) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Devleena2003/SDE-Prep/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Devleena2003/SDE-Prep/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Devleena2003/SDE-Prep/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Devleena2003/SDE-Prep/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/Devleena2003/SDE-Prep/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Devleena2003/SDE-Prep/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1695-maximum-erasure-value](https://github.com/Devleena2003/SDE-Prep/tree/master/1695-maximum-erasure-value) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Devleena2003/SDE-Prep/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Devleena2003/SDE-Prep/tree/master/1777-determine-if-two-strings-are-close) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Devleena2003/SDE-Prep/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -852,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Devleena2003/SDE-Prep/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Devleena2003/SDE-Prep/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Devleena2003/SDE-Prep/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1695-maximum-erasure-value](https://github.com/Devleena2003/SDE-Prep/tree/master/1695-maximum-erasure-value) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Devleena2003/SDE-Prep/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Devleena2003/SDE-Prep/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Devleena2003/SDE-Prep/tree/master/2478-longest-nice-subarray) |
