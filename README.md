@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Devleena2003/SDE-Prep/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Devleena2003/SDE-Prep/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0045-jump-game-ii) |
+| [0059-spiral-matrix-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Devleena2003/SDE-Prep/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Devleena2003/SDE-Prep/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Devleena2003/SDE-Prep/tree/master/0078-subsets) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Devleena2003/SDE-Prep/tree/master/0037-sudoku-solver) |
+| [0059-spiral-matrix-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Devleena2003/SDE-Prep/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Devleena2003/SDE-Prep/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Devleena2003/SDE-Prep/tree/master/0085-maximal-rectangle) |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Devleena2003/SDE-Prep/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/Devleena2003/SDE-Prep/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/Devleena2003/SDE-Prep/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/Devleena2003/SDE-Prep/tree/master/0874-backspace-string-compare) |
